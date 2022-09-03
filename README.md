@@ -1,3 +1,5 @@
+![IndexerDAO logo](/IndexerDAOLogo.png)
+
 # Community Workshop Schedule
 
 | Date | Time | Topic | Description |
